@@ -33,7 +33,7 @@ a{
 }
 
 a:hover{
-  color: #11999e;
+  color: #e4f9f5;
 }
 
 hr{
@@ -58,6 +58,7 @@ p{
 
 .middle_container{
   margin: 100px 0;
+  background-color: #e4f9f5;
 }
 
 .bottom_container{
